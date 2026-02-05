@@ -46,10 +46,10 @@ API endpoints are available for further integration or testing
 
 ## Getting Started (Local Development)
 
-## Follow the steps below to test it for yourself.
+### Follow the steps below to test it for yourself.
 
-1) Cone the repository
 ```bash
+1) Cone the repository
 git clone https://github.com/Marsh-ops/Django-react-task-tracker
 cd DjangoJobTrackerReact
 
