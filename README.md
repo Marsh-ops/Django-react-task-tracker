@@ -4,7 +4,7 @@ A web application to manage tasks and track progress, built with **Django** (bac
 
 ---
 
-# What to Expect
+## What to Expect
 
 Log in or use the superuser account to access the admin panel
 
@@ -46,14 +46,14 @@ API endpoints are available for further integration or testing
 
 ## Getting Started (Local Development)
 
-### Follow the steps below to test it for yourself.
+## Follow the steps below to test it for yourself.
 
-1) First close the repository
+1) Cone the repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Marsh-ops/Django-react-task-tracker
 cd DjangoJobTrackerReact
 
-### 2. Setup Python environment
+2) Setup Python environment
 python -m venv venv
 
 # Activate the virtual environment
@@ -65,20 +65,20 @@ source venv/bin/activate
 # Install dependencies
 pip install -r requirements.txt
 
-### 3. Setup React frontend
+3) Setup React frontend
 cd frontend  # if you have a frontend folder
 npm install
 
-### 4. Apply migrations
+4) Apply migrations
 python manage.py migrate
 
-### 5. Create a superuser (admin)
+5) Create a superuser (admin)
 python manage.py createsuperuser
 
-### 6. Run the backend
+6) Run the backend
 python manage.py runserver
 Then visit: http://localhost:8000/admin - to access the Django admin.
 
-### 7. Run the frontend
+7) Run the frontend
 npm start
 Then visit: http://localhost:3000 - to access the frontend.
