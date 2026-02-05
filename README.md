@@ -46,7 +46,9 @@ API endpoints are available for further integration or testing
 
 ## Getting Started (Local Development)
 
-### 1. Clone the repository
+### Follow the steps below to test it for yourself.
+
+1) First close the repository
 ```bash
 git clone <your-repo-url>
 cd DjangoJobTrackerReact
