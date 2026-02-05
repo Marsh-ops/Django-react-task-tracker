@@ -2,7 +2,8 @@
 
 A web application to manage tasks and track progress, built with **Django** (backend) and **React** (frontend). This project demonstrates a full-stack setup with REST APIs and JWT authentication.
 
-**Note:** This is one of my first full-stack projects using Django and JWT authentication. The project demonstrates my ability to learn new technologies and build functional applications.
+*Note:* This is one of my first full-stack projects using Django and JWT authentication. The project demonstrates my ability to learn new technologies and build functional applications.
+
 ---
 
 ## What to Expect
